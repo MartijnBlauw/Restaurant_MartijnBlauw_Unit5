@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		48C4A13F1FD54C1D00809D7A /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A13E1FD54C1D00809D7A /* CategoryTableViewController.swift */; };
+		48C4A1411FD54C2800809D7A /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A1401FD54C2800809D7A /* MenuTableViewController.swift */; };
+		48C4A1431FD54C3400809D7A /* OrderTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A1421FD54C3300809D7A /* OrderTableViewController.swift */; };
+		48C4A1451FD54DF100809D7A /* MenuItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A1441FD54DF100809D7A /* MenuItemDetailViewController.swift */; };
+		48C4A1471FD54E7300809D7A /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A1461FD54E7300809D7A /* MenuItem.swift */; };
+		48C4A1491FD54FC500809D7A /* IntermediaryModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A1481FD54FC500809D7A /* IntermediaryModels.swift */; };
+		48C4A14B1FD5504000809D7A /* MenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A14A1FD5504000809D7A /* MenuController.swift */; };
+		48C4A14D1FD5710100809D7A /* OrderConfirmationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4A14C1FD5710100809D7A /* OrderConfirmationViewController.swift */; };
 		48F3800C1FD43B28000BC4C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F3800B1FD43B28000BC4C8 /* AppDelegate.swift */; };
 		48F3800E1FD43B28000BC4C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F3800D1FD43B28000BC4C8 /* ViewController.swift */; };
 		48F380111FD43B28000BC4C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 48F3800F1FD43B28000BC4C8 /* Main.storyboard */; };
@@ -15,6 +23,20 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		481AA6371FDEAB2B00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.00.00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.00.00.png"; sourceTree = "<group>"; };
+		481AA6381FDEAB2B00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.19.png"; sourceTree = "<group>"; };
+		481AA6391FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.31.png"; sourceTree = "<group>"; };
+		481AA63A1FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.51.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.51.40.png"; sourceTree = "<group>"; };
+		481AA63B1FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.59.50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.59.50.png"; sourceTree = "<group>"; };
+		481AA63C1FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.35.png"; sourceTree = "<group>"; };
+		48C4A13E1FD54C1D00809D7A /* CategoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
+		48C4A1401FD54C2800809D7A /* MenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
+		48C4A1421FD54C3300809D7A /* OrderTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewController.swift; sourceTree = "<group>"; };
+		48C4A1441FD54DF100809D7A /* MenuItemDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemDetailViewController.swift; sourceTree = "<group>"; };
+		48C4A1461FD54E7300809D7A /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		48C4A1481FD54FC500809D7A /* IntermediaryModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntermediaryModels.swift; sourceTree = "<group>"; };
+		48C4A14A1FD5504000809D7A /* MenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuController.swift; sourceTree = "<group>"; };
+		48C4A14C1FD5710100809D7A /* OrderConfirmationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderConfirmationViewController.swift; sourceTree = "<group>"; };
 		48F380081FD43B28000BC4C8 /* Restaurant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restaurant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		48F3800B1FD43B28000BC4C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		48F3800D1FD43B28000BC4C8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +57,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		481AA6361FDEAB1D00278484 /* docs */ = {
+			isa = PBXGroup;
+			children = (
+				481AA63A1FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.51.40.png */,
+				481AA6381FDEAB2B00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.19.png */,
+				481AA6391FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.31.png */,
+				481AA63C1FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.55.35.png */,
+				481AA63B1FDEAB2C00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 12.59.50.png */,
+				481AA6371FDEAB2B00278484 /* Simulator Screen Shot - iPhone 8 Plus - 2017-12-11 at 13.00.00.png */,
+			);
+			path = docs;
+			sourceTree = "<group>";
+		};
 		48F37FFF1FD43B27000BC4C8 = {
 			isa = PBXGroup;
 			children = (
@@ -54,9 +89,18 @@
 		48F3800A1FD43B28000BC4C8 /* Restaurant */ = {
 			isa = PBXGroup;
 			children = (
+				481AA6361FDEAB1D00278484 /* docs */,
 				48F3800B1FD43B28000BC4C8 /* AppDelegate.swift */,
 				48F3800D1FD43B28000BC4C8 /* ViewController.swift */,
 				48F3800F1FD43B28000BC4C8 /* Main.storyboard */,
+				48C4A1461FD54E7300809D7A /* MenuItem.swift */,
+				48C4A1481FD54FC500809D7A /* IntermediaryModels.swift */,
+				48C4A14A1FD5504000809D7A /* MenuController.swift */,
+				48C4A1441FD54DF100809D7A /* MenuItemDetailViewController.swift */,
+				48C4A13E1FD54C1D00809D7A /* CategoryTableViewController.swift */,
+				48C4A1401FD54C2800809D7A /* MenuTableViewController.swift */,
+				48C4A1421FD54C3300809D7A /* OrderTableViewController.swift */,
+				48C4A14C1FD5710100809D7A /* OrderConfirmationViewController.swift */,
 				48F380121FD43B28000BC4C8 /* Assets.xcassets */,
 				48F380141FD43B28000BC4C8 /* LaunchScreen.storyboard */,
 				48F380171FD43B28000BC4C8 /* Info.plist */,
@@ -96,6 +140,7 @@
 				TargetAttributes = {
 					48F380071FD43B28000BC4C8 = {
 						CreatedOnToolsVersion = 9.0.1;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -136,8 +181,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48C4A14D1FD5710100809D7A /* OrderConfirmationViewController.swift in Sources */,
+				48C4A1471FD54E7300809D7A /* MenuItem.swift in Sources */,
+				48C4A14B1FD5504000809D7A /* MenuController.swift in Sources */,
+				48C4A1411FD54C2800809D7A /* MenuTableViewController.swift in Sources */,
+				48C4A1451FD54DF100809D7A /* MenuItemDetailViewController.swift in Sources */,
+				48C4A1431FD54C3400809D7A /* OrderTableViewController.swift in Sources */,
+				48C4A1491FD54FC500809D7A /* IntermediaryModels.swift in Sources */,
 				48F3800E1FD43B28000BC4C8 /* ViewController.swift in Sources */,
 				48F3800C1FD43B28000BC4C8 /* AppDelegate.swift in Sources */,
+				48C4A13F1FD54C1D00809D7A /* CategoryTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,11 +327,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Restaurant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = MartijnBlauw.Restaurant;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -288,6 +343,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Restaurant/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
